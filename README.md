@@ -33,3 +33,9 @@ Projeto desenvolvido em C# para realizar operações matemáticas com matrizes p
 ## Objetivo
 
 Este projeto foi desenvolvido durante meus estudos de Engenharia da Computação, com o objetivo de praticar lógica de programação, manipulação de matrizes, validação de dados e utilização de bibliotecas externas em C#.
+
+## 📸 Demonstração de Uso
+
+Exemplo de execução contínua realizando multiplicação e cálculo de matriz inversa:
+
+<img width="450" height="792" alt="Demonstração de funcionamento Calculadora de Matrizes" src="https://github.com/user-attachments/assets/27c17154-b6ec-4de1-b58f-18e27ac78104" />
